@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/customer_conversion/models/mlruns/0/86dfd83c74814fca87ded01f68f63f15/artifacts
+deleted_time: 1749918683244
+end_time: 1749401715034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 86dfd83c74814fca87ded01f68f63f15
+run_name: calm-lark-3
+run_uuid: 86dfd83c74814fca87ded01f68f63f15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749401711492
+status: 3
+tags: []
+user_id: IfeomaAugustaAdigwe

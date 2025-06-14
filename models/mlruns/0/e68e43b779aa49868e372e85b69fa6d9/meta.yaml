@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/customer_conversion/models/mlruns/0/e68e43b779aa49868e372e85b69fa6d9/artifacts
+deleted_time: 1749918683231
+end_time: 1749917846692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e68e43b779aa49868e372e85b69fa6d9
+run_name: DecisionTree
+run_uuid: e68e43b779aa49868e372e85b69fa6d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749917843208
+status: 3
+tags: []
+user_id: IfeomaAugustaAdigwe

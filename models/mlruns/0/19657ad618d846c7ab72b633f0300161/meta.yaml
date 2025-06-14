@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/customer_conversion/models/mlruns/0/19657ad618d846c7ab72b633f0300161/artifacts
+deleted_time: 1749918683230
+end_time: 1749918475978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 19657ad618d846c7ab72b633f0300161
+run_name: dapper-owl-163
+run_uuid: 19657ad618d846c7ab72b633f0300161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749918472084
+status: 3
+tags: []
+user_id: IfeomaAugustaAdigwe

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/customer_conversion/models/mlruns/0/0720f7462b03476c8baf324d76879125/artifacts
+deleted_time: 1749918683233
+end_time: 1749917851126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0720f7462b03476c8baf324d76879125
+run_name: receptive-boar-381
+run_uuid: 0720f7462b03476c8baf324d76879125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749917847934
+status: 3
+tags: []
+user_id: IfeomaAugustaAdigwe

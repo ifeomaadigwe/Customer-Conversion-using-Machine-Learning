@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/customer_conversion/models/mlruns/0/4b53fbc5d02449818b79fdbfd2ac22c8/artifacts
+deleted_time: 1749918683243
+end_time: 1749917839657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4b53fbc5d02449818b79fdbfd2ac22c8
+run_name: LogisticRegression
+run_uuid: 4b53fbc5d02449818b79fdbfd2ac22c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749917835980
+status: 3
+tags: []
+user_id: IfeomaAugustaAdigwe

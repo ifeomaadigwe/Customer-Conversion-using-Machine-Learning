@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/customer_conversion/models/mlruns/0/a5c95e4616bf43719f3533e36bcabffd/artifacts
+deleted_time: 1749918683257
+end_time: 1749401700228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a5c95e4616bf43719f3533e36bcabffd
+run_name: RandomForest
+run_uuid: a5c95e4616bf43719f3533e36bcabffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749401695188
+status: 3
+tags: []
+user_id: IfeomaAugustaAdigwe
