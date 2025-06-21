@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/customer_conversion/models/mlruns/0/47762d36e322474689f3e530d15c99bb/artifacts
+end_time: 1750523779062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47762d36e322474689f3e530d15c99bb
+run_name: SVM
+run_uuid: 47762d36e322474689f3e530d15c99bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750523775475
+status: 3
+tags: []
+user_id: IfeomaAugustaAdigwe

@@ -1,5 +1,4 @@
 # app.py
-
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -11,21 +10,21 @@ st.set_page_config(page_title="Customer Conversion Dashboard", layout="wide")
 st.title("Customer Conversion Dashboard")
 st.markdown("Enter customer behavior data to predict conversion probability.")
 
-# Relative paths for model and scaler
-MODEL_PATH = "models/artifacts/customer_conversion_model.pkl"
-SCALER_PATH = "models/artifacts/scaler.pkl"
+# Use raw strings for Windows paths
+MODEL_PATH = r"C:\Users\IfeomaAugustaAdigwe\Desktop\customer_conversion\models\artifacts\customer_conversion_model.pkl"
+SCALER_PATH = r"C:\Users\IfeomaAugustaAdigwe\Desktop\customer_conversion\models\artifacts\scaler.pkl"
 
 # Load model and scaler with caching
 @st.cache_resource(show_spinner=False)
 def load_model_and_scaler():
+    model = None
+    scaler = None
     try:
         model = joblib.load(MODEL_PATH)
         st.success("Model loaded successfully.")
     except Exception as e:
-        st.error(f" Error loading model: {e}")
-        model = None
+        st.error(f"Error loading model: {e}")
 
-    scaler = None
     if os.path.exists(SCALER_PATH):
         try:
             scaler = joblib.load(SCALER_PATH)
