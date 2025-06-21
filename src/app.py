@@ -11,8 +11,15 @@ st.title("Customer Conversion Dashboard")
 st.markdown("Enter customer behavior data to predict conversion probability.")
 
 # Use raw strings for Windows paths
-MODEL_PATH = r"C:\Users\IfeomaAugustaAdigwe\Desktop\customer_conversion\models\artifacts\customer_conversion_model.pkl"
-SCALER_PATH = r"C:\Users\IfeomaAugustaAdigwe\Desktop\customer_conversion\models\artifacts\scaler.pkl"
+MODEL_PATH = "src/customer_conversion_model.pkl"
+SCALER_PATH = "src/scaler.pkl"
+
+for path in [MODEL_PATH, SCALER_PATH]:
+    if not os.path.exists(path):
+        print(f"Path does not exist: {path}")
+    else:
+        print(f"Path exists: {path}")
+
 
 # Load model and scaler with caching
 @st.cache_resource(show_spinner=False)

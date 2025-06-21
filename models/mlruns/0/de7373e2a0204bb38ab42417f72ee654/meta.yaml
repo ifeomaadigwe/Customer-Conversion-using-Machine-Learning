@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/customer_conversion/models/mlruns/0/de7373e2a0204bb38ab42417f72ee654/artifacts
+end_time: 1750524927409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de7373e2a0204bb38ab42417f72ee654
+run_name: debonair-pig-462
+run_uuid: de7373e2a0204bb38ab42417f72ee654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750524923747
+status: 3
+tags: []
+user_id: IfeomaAugustaAdigwe

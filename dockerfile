@@ -16,7 +16,7 @@ COPY artifacts/ ./artifacts/
 
 # Expose the Streamlit and FastAPI ports
 EXPOSE 8501
-#EXPOSE 8000
+EXPOSE 8000
 
 # Run the Streamlit app when the container starts
 CMD ["streamlit", "run", "src/app.py", "--server.port=8501"]
